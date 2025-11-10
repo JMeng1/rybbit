@@ -288,42 +288,6 @@ export default function HomePage() {
                   />
                 </Link>
               </div>
-              <div className="flex items-center justify-center">
-                  <Image
-                    src="/logos/xiaohongshu_logo.png"
-                    alt="Shopify"
-                    width={120}
-                    height={40}
-                    className="opacity-60 hover:opacity-100 transition-opacity invert grayscale"
-                  />
-              </div>
-              <div className="flex items-center justify-center">
-                <Link href="https://baidu.com" target="_blank">
-                  <Image
-                    src="/logos/baidu_logo.svg"
-                    alt="Baidu"
-                    width={120}
-                    height={40}
-                    className="opacity-60 hover:opacity-100 transition-opacity invert grayscale"
-                  />
-                </Link>
-              </div>
-              <div className="flex items-center justify-center">                  <Image
-                    src="/logos/government_of_mongolia.png"
-                    alt="Mongolian Government"
-                    width={120}
-                    height={40}
-                    className="opacity-60 hover:opacity-100 transition-opacity invert grayscale"
-                  />
-              </div>
-              <div className="flex items-center justify-center">                  <Image
-                    src="/logos/air_astana.png"
-                    alt="Air Astana"
-                    width={120}
-                    height={40}
-                    className="opacity-60 hover:opacity-100 transition-opacity invert grayscale"
-                  />
-              </div>
             </div>
           </div>
         </section>
